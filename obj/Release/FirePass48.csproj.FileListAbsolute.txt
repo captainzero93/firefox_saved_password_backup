@@ -1,0 +1,10 @@
+C:\Users\redacted\source\repos\FirePass48\FirePass48\bin\Release\FirePass48.exe.config
+C:\Users\redacted\source\repos\FirePass48\FirePass48\bin\Release\FirePass48.exe
+C:\Users\redacted\source\repos\FirePass48\FirePass48\bin\Release\FirePass48.pdb
+C:\Users\redacted\source\repos\FirePass48\FirePass48\bin\Release\Newtonsoft.Json.dll
+C:\Users\redacted\source\repos\FirePass48\FirePass48\bin\Release\Newtonsoft.Json.xml
+C:\Users\redacted\source\repos\FirePass48\FirePass48\obj\Release\FirePass48.csproj.AssemblyReference.cache
+C:\Users\redacted\source\repos\FirePass48\FirePass48\obj\Release\FirePass48.csproj.CoreCompileInputs.cache
+C:\Users\redacted\source\repos\FirePass48\FirePass48\obj\Release\FirePass48.csproj.Up2Date
+C:\Users\redacted\source\repos\FirePass48\FirePass48\obj\Release\FirePass48.exe
+C:\Users\redacted\source\repos\FirePass48\FirePass48\obj\Release\FirePass48.pdb
