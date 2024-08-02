@@ -4,7 +4,7 @@
 
 ## Overview
 
-This tool is designed to find and decrypt passwords saved in Firefox browsers. It utilizes the Network Security Services (NSS) library, specifically `nss3.dll`, to initialize cryptographic functions and decrypt data. It will compile and run with the included .net version with windows 11 ( .NET Framework 4.8).
+This tool is designed to find and decrypt passwords saved in Firefox browsers. It utilizes the Network Security Services (NSS) library, specifically `nss3.dll`, to initialize cryptographic functions and decrypt data. Targets the included .net version bundled with windows 11 ( .NET Framework 4.8).
 
 ## Features
 
