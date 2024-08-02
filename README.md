@@ -1,4 +1,4 @@
-# firefox_saved_password_backup
+# Firefox saved password backup / decrypt / crack
 
 - Find and decrypt passwords saved on Firefox
 
