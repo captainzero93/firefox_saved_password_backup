@@ -1,4 +1,4 @@
-# Firefox Saved Password Backup / Decrypt / Crack Tool
+# Firefox Saved Password Backup / Decrypt / (firepass48)
 
 **IMPORTANT LEGAL NOTICE: This tool is for testing and educational purposes only. The author takes no responsibility for its use. Use at your own risk.**
 
