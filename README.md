@@ -42,4 +42,4 @@ By using this tool, you agree that:
 3. You will not use this tool for any malicious or unauthorized purposes.
 4. The author is not responsible for any consequences resulting from the use or misuse of this tool.
 
-Use this tool responsibly and ethically, and always respect privacy and security laws and regulations.
+Use this tool responsibly and ethically for reserarch to private property only.
