@@ -43,3 +43,36 @@ By using this tool, you agree that:
 4. The author is not responsible for any consequences resulting from the use or misuse of this tool.
 
 Use this tool responsibly and ethically for reserarch to private property only.
+
+Dual License for Firefox Saved Password Backup
+This project is available under a dual license:
+
+1. Non-Commercial License
+For non-commercial use, this project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+This license allows you to:
+
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial — You may not use the material for commercial purposes.
+For more details, see the full license text at: CC BY-NC 4.0 License
+
+2. Commercial License
+For any commercial use, including but not limited to:
+
+Selling the code or any derivatives of the code
+Incorporating the code into a commercial product or service
+Any use of the code that generates revenue
+You must contact the project owner to discuss licensing terms and potential payment/deployment.
+
+For commercial licensing inquiries, please contact: joe.faulkner.0@gmail.com
+
+Citation
+If you use Firefox Saved Password Backup in your research or project, please cite it as follows: [captainzero93]. (2024). Firefox Saved Password Backup. GitHub. https://github.com/captainzero93/firefox_saved_password_backup
+
+By using this project, you agree to abide by the terms of the appropriate license based on your intended use.
+
+Feel free to copy and update your repository with this license setup. If you need any more help, just let me know!
