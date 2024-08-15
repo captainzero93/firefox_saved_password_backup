@@ -1,21 +1,38 @@
-MIT License
+# Dual License 
 
-Copyright (c) 2024 redacted
+This project is available under a dual license:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Non-Commercial License
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+For non-commercial use, this project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This license allows you to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+For more details, see the full license text at: CC BY-NC 4.0 License
+
+## 2. Commercial License
+
+For any commercial use, including but not limited to:
+
+- Selling the code or any derivatives of the code
+- Incorporating the code into a commercial product or service
+- Any use of the code that generates revenue
+
+You must contact the project owner to discuss licensing terms and potential payment/deployment.
+
+For commercial licensing inquiries, please contact: joe.faulkner.0@gmail.com
+
+## Citation
+
+If you use PixelGuard AI in your research or project, please cite it as follows:
+[captainzero93]. (2024). PixelGuard AI. GitHub. https://github.com/captainzero93/firefox_saved_password_backup
+
+By using this project, you agree to abide by the terms of the appropriate license based on your intended use.
