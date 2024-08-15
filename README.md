@@ -1,28 +1,28 @@
-# Firefox Saved Password Backup / Decrypt / (firepass48)
+# Firefox Saved Password Backup / Decrypt (firepass48)
 
-**IMPORTANT LEGAL NOTICE: This tool is for testing and educational purposes only. The author takes no responsibility for its use. Use at your own risk.**
+**IMPORTANT LEGAL NOTICE:** This tool is for testing and educational purposes only. The author takes no responsibility for its use. Use at your own risk.
 
 ## Overview
 
-This tool is designed to find and decrypt passwords saved in Firefox browsers. It utilizes the Network Security Services (NSS) library, specifically `nss3.dll`, to initialize cryptographic functions and decrypt data. Targets the included .net version bundled with windows 11 ( .NET Framework 4.8).
+This tool is designed to find and decrypt passwords saved in Firefox browsers. It utilizes the Network Security Services (NSS) library, specifically nss3.dll, to initialize cryptographic functions and decrypt data. It targets the included .NET version bundled with Windows 11 (.NET Framework 4.8).
 
 ## Features
 
-The `NSSHelper` class provides methods to:
-- Initialize the NSS library
-- Decrypt data using NSS functions
+- **NSSHelper class:**
+  - Initialize the NSS library
+  - Decrypt data using NSS functions
 
-The `GetFirefoxPasswords` method:
-- Reads the `logins.json` file from a Firefox profile
-- Initializes the NSS library
-- Deserializes the JSON data
-- Iterates through the logins, decrypting usernames and passwords
-- Stores the decrypted data in `PasswordEntry` objects
+- **GetFirefoxPasswords method:**
+  - Reads the logins.json file from a Firefox profile
+  - Initializes the NSS library
+  - Deserializes the JSON data
+  - Iterates through the logins, decrypting usernames and passwords
+  - Stores the decrypted data in PasswordEntry objects
 
-The `Main` method:
-- Locates Firefox profiles on the system
-- Calls `GetFirefoxPasswords` for each profile
-- Prints out the decrypted URLs, usernames, and passwords
+- **Main method:**
+  - Locates Firefox profiles on the system
+  - Calls GetFirefoxPasswords for each profile
+  - Prints out the decrypted URLs, usernames, and passwords
 
 ## Usage
 
@@ -37,42 +37,21 @@ This tool is intended for legitimate testing and educational purposes only. The 
 ## Legal Notice
 
 By using this tool, you agree that:
-1. You will only use it on systems and data for which you have explicit permission.
-2. You understand the potential legal and ethical implications of password decryption.
-3. You will not use this tool for any malicious or unauthorized purposes.
-4. The author is not responsible for any consequences resulting from the use or misuse of this tool.
+- You will only use it on systems and data for which you have explicit permission.
+- You understand the potential legal and ethical implications of password decryption.
+- You will not use this tool for any malicious or unauthorized purposes.
+- The author is not responsible for any consequences resulting from the use or misuse of this tool.
 
-Use this tool responsibly and ethically for reserarch to private property only.
+Use this tool responsibly and ethically for research on private property only.
 
-Dual License for Firefox Saved Password Backup
+## License
+
 This project is available under a dual license:
+- Non-Commercial License: CC BY-NC 4.0
+- Commercial License: See [LICENSE](LICENSE) file for details.
 
-1. Non-Commercial License
-For non-commercial use, this project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+## Citation
 
-This license allows you to:
+If you use Firefox Saved Password Backup in your research or project, please cite it as follows:
 
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material
-Under the following terms:
-
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-NonCommercial — You may not use the material for commercial purposes.
-For more details, see the full license text at: CC BY-NC 4.0 License
-
-2. Commercial License
-For any commercial use, including but not limited to:
-
-Selling the code or any derivatives of the code
-Incorporating the code into a commercial product or service
-Any use of the code that generates revenue
-You must contact the project owner to discuss licensing terms and potential payment/deployment.
-
-For commercial licensing inquiries, please contact: joe.faulkner.0@gmail.com
-
-Citation
-If you use Firefox Saved Password Backup in your research or project, please cite it as follows: [captainzero93]. (2024). Firefox Saved Password Backup. GitHub. https://github.com/captainzero93/firefox_saved_password_backup
-
-By using this project, you agree to abide by the terms of the appropriate license based on your intended use.
-
-Feel free to copy and update your repository with this license setup. If you need any more help, just let me know!
+[captainzero93]. (2024). Firefox Saved Password Backup. GitHub. https://github.com/captainzero93/firefox_saved_password_backup
