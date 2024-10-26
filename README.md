@@ -39,11 +39,3 @@ By using this tool, you agree that:
 - The author is not responsible for any consequences resulting from the use or misuse of this tool.
 
 Use this tool responsibly and ethically for research on private property only.
-
-## Citation
-
-If you use Firefox Saved Password Backup in your research or project, please cite it as follows:
-
-[captainzero93]. (2024). Firefox Saved Password Backup. GitHub. https://github.com/captainzero93/firefox_saved_password_backup
-
-By using this project, you agree to abide by the terms of the appropriate license based on your intended use.
