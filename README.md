@@ -3,7 +3,7 @@
 **IMPORTANT LEGAL NOTICE:** This tool is for testing and educational purposes only. The author takes no responsibility for its use. Use at your own risk.
 
 ## Overview
-
+Note: Does not decrypt the master key this is AES-256-CBC encypted.
 This tool is designed to find and decrypt passwords saved in Firefox browsers. It utilizes the Network Security Services (NSS) library, specifically nss3.dll, to initialize cryptographic functions and decrypt data. It targets the included .NET version bundled with Windows 11 (.NET Framework 4.8).
 
 ## Features
