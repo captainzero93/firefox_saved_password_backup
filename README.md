@@ -30,10 +30,6 @@ This tool is designed to find and decrypt passwords saved in Firefox browsers. I
 2. Run the tool using the command prompt.
 3. The decrypted passwords will be displayed in the command window.
 
-## Disclaimer
-
-This tool is intended for legitimate testing and educational purposes only. The author assumes no liability for any misuse or damage caused by this tool. Users are solely responsible for ensuring they have proper authorization before using this tool on any system or data they do not own.
-
 ## Legal Notice
 
 By using this tool, you agree that:
@@ -43,11 +39,6 @@ By using this tool, you agree that:
 - The author is not responsible for any consequences resulting from the use or misuse of this tool.
 
 Use this tool responsibly and ethically for research on private property only.
-
-## License
-
-This project is available under a dual license:
-
 
 ## Citation
 
